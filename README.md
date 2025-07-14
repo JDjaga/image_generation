@@ -1,6 +1,5 @@
 # Segment Anything & Stable Diffusion Inpainting
 
-![download](https://github.com/user-attachments/assets/ae217f10-20ad-47f0-921c-b1570b4c4903)
 ## Overview
 This project utilizes the Segment Anything Model (SAM) and Stable Diffusion Inpainting Pipeline to enable users to segment and inpaint parts of images based on custom prompts. The pipeline is designed to take an input image, generate segmentation masks, and then apply inpainting based on specified prompts, providing an interactive and customizable experience.
 Features
