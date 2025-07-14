@@ -1,10 +1,5 @@
 # Segment Anything & Stable Diffusion Inpainting
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-FF7F50?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-1E90FF?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Powered%20by-Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface)
-![Torch](https://img.shields.io/badge/PyTorch-1.0%2B-FF6347?style=for-the-badge&logo=pytorch)
-![Gradio](https://img.shields.io/badge/Gradio-2.0%2B-32CD32?style=for-the-badge&logo=gradio)
 ![download](https://github.com/user-attachments/assets/ae217f10-20ad-47f0-921c-b1570b4c4903)
 ## Overview
 This project utilizes the Segment Anything Model (SAM) and Stable Diffusion Inpainting Pipeline to enable users to segment and inpaint parts of images based on custom prompts. The pipeline is designed to take an input image, generate segmentation masks, and then apply inpainting based on specified prompts, providing an interactive and customizable experience.
